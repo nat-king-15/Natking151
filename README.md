@@ -55,6 +55,10 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nat-king-15/Natking151)
 
+### Deploy To Railway 💜
+
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/nat-king-15/Natking151&envs=API_HASH,API_ID,BOT_NAME,BOT_TOKEN,SESSION_NAME,SUDO_USERS)
+
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
 ```sh

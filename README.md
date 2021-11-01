@@ -68,7 +68,7 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [Natking](https://github.com/nat-king-15): Dev
+- [NatRaj](https://github.com/nat-king-15): Dev
 - [Natking support](https://t.me/Natking_support) Our Music Bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 

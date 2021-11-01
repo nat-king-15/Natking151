@@ -69,7 +69,7 @@ python3 main.py # Run the bot
 
 ### Special Credits 💖
 - [NatRaj](https://github.com/nat-king-15): Dev
-- [Natking support](https://t.me/Natking_support) Our Music Bot
+- [Natking support](https://t.me/NatKing_music_bot) Our Music Bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 
 ### Support & Updates 🎑
